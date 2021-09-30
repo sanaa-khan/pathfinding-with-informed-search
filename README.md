@@ -23,3 +23,6 @@ Environment announces when this criterion is met and stops the execution.
 - The performance of an agent is calculated after the termination criteria is met. The performance measure of an agent is the (number of steps used) to complete the maze. Maze is completed when agent reaches 11 x 1 block.
 - The environment is deterministic and fully observable.
 - The perception is given by the environment and includes, cell coordinates and if the current piece in the cell is empty or blocked.
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
